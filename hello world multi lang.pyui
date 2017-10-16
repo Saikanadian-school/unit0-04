@@ -1,0 +1,85 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{194, 146}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "CDF2E38A-6FCC-4712-B040-229088125256",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "hello_world_label"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{108, 295}, {91, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "english_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "English",
+          "class" : "Button",
+          "uuid" : "F55D42CC-96A4-4767-8137-C29E1DFEF8A8",
+          "font_size" : 15,
+          "name" : "english_button"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{241, 295}, {80, 41}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "french_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "French",
+          "class" : "Button",
+          "uuid" : "DC8ACA83-086D-47B9-9C3E-694E8E3DCA1A",
+          "font_size" : 15,
+          "name" : "french_button"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{378, 295}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "spanish_button",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Spanish",
+          "class" : "Button",
+          "uuid" : "88867D91-2A60-4874-B8A3-41D41079476F",
+          "font_size" : 15,
+          "name" : "spanish_button"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
